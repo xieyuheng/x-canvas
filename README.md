@@ -1,6 +1,6 @@
-# Someone's C Standard Library
+# My Canvas
 
-Source file distributed standard library for C.
+A [uxn](https://100r.co/site/uxn.html) inspired canvas for C.
 
 ## Install
 
@@ -13,8 +13,8 @@ Dependencies:
 Compile:
 
 ```
-git clone https://github.com/xieyuheng/x-std
-cd x-std
+git clone https://github.com/xieyuheng/x-canvas
+cd x-canvas
 make -j
 make test
 ```
@@ -36,12 +36,6 @@ to test data race in parallel program:
 ```shell
 make clean && TSAN=true make -j
 ```
-
-## References
-
-**Inspirations**:
-
-- [scalable c](https://github.com/booksbyus/scalable-c)
 
 ## Contributions
 
