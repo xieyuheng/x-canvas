@@ -6,9 +6,7 @@ A [uxn](https://100r.co/site/uxn.html) inspired canvas for C.
 
 Dependencies:
 
-- `libx11`:
-  - debian: `sudo apt install libx11-dev`
-  - ubuntu: `sudo apt install libx11-dev`
+- debian: `sudo apt install libx11-dev`
 
 Compile:
 
